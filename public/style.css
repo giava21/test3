@@ -1,0 +1,27 @@
+body{
+  background-color: brown !important;
+  font-size: 1.5em;
+  color: white !important
+}
+
+h1,h2,h3{
+  color: white
+}
+
+table{
+  padding-top: 50px;
+  padding-left: 50px;
+  color: white !important;
+}
+
+div{
+  padding-bottom: 20px
+}
+
+a:hover{
+  color: red
+}
+
+#tit{
+  background-color: darkslategrey;
+}
